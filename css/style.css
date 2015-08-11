@@ -117,7 +117,7 @@ footer p {
 
 @media screen and (min-width:768px) {
     .brand {
-
+        text-transform: uppercase;
         display: inherit;
         margin: 0;
         padding: 30px 0 10px;
@@ -208,7 +208,7 @@ footer p {
     line-height: .4px;
 
     padding-top: 15px;
-
+ 
 }
 
 .navbar-brand{
@@ -219,5 +219,5 @@ footer p {
     text-align: center;
     font-size: .8em;
     padding: 11px 88px;
-    margin-top: -13%;
+    margin-top: -9%;
 }
